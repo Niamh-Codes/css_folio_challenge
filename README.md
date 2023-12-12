@@ -10,7 +10,6 @@ Under my git page, locate the string of commits to see my development history.
 Under each header you will find an explaination of the purpose of each section.
 
 # Credits
-NA
 
 # License
 Please refer to the LICENSE in the repo.
